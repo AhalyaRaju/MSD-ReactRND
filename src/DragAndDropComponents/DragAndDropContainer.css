@@ -1,0 +1,38 @@
+.DragDropContainer {
+    margin: 2em;
+}
+
+.DragDropCustomElements {
+    margin-top: 3em !important;
+}
+
+.DropContainer {
+    margin: 2em;
+    height: 500px;
+}
+
+.DrapDropContainerActions {
+    margin-right: 3em !important
+}
+
+.DrapDropContainerActionsMain{
+    margin-top : 8em;
+}
+
+.DraggedComponents {
+    padding-top: 5px
+}
+
+.DraggedComponentsAbsolute {
+    position: absolute;
+}
+
+.DropContainerMain {
+    height: 250px;
+    border: 1px dashed;
+}
+
+.DropContainerSub {
+    height: 300px;
+    border: 1px dashed;
+}
