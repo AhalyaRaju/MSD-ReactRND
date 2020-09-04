@@ -3,7 +3,7 @@ import Button from '@material-ui/core/Button';
 // to connect this component with store
 import { connect } from 'react-redux';
 
-
+// component of button
 class ButtonElement extends React.Component {
     render() {
         return (
